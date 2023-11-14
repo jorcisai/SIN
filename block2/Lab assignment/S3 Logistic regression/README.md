@@ -1,0 +1,1 @@
+In the third session we will apply logistic regression to some classification tasks. The iris notebook describes how to do it in Iris with the sklearn implementation of logistic regression. The main objective of this session is to extend the example given to other tasks, trying to minimize test error.
