@@ -1,0 +1,1 @@
+In the second session we will apply the Perceptron algorithm to some classification tasks. The iris notebook describes a simple implementation of the Perceptron algorithm and its application. The main purpose of this session is to extend the example given to other tasks, trying to minimize test error.
