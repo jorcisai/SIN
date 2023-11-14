@@ -1,0 +1,1 @@
+In the first session we will familiarize ourselves with the work environment and some datasets, starting with iris.
