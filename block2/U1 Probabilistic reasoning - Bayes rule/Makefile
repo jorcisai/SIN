@@ -1,6 +1,6 @@
 FNB := $(shell find . -name "[0-9]*.ipynb" | sort)
 FCSS := $(shell find . -name "*.css" | sort)
-FILE = U0_Introduction_to_machine_learning
+FILE = U1_Probabilistic_reasoning-Bayes_rule
 
 all: $(FILE).pdf
 
